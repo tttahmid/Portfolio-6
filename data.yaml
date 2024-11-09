@@ -1,0 +1,5 @@
+train: ../data/train  #  training images path
+val: ../data/test     #  testing images path
+
+nc: 1                 # Number of classes (1 for graffiti)
+names: ['graffiti']   # Class name
